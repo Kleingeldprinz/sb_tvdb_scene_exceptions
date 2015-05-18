@@ -97,7 +97,7 @@
 249980: 'Restoration Home', 'Restoration Home UK',
 250153: 'Top Design Australia', 'Top Design AU',
 250331: 'Richard Hammond\'s Journey To...', 'Richard Hammonds Journey To',
-248503: 'The Hour (2011)', 'The Hour UK 2011', 'The Hour 2011',
+248503: 'The Hour (2011)', 'The Hour UK 2011', 'The Hour 2011',fam
 81491:  'Big Brother After Dark'. 'Big Brother US After Dark', 'Big Brother After Dark US',
 196351: 'T.U.F.F. Puppy', 'TUFF Puppy',
 250445: 'The Renovators', 'The Renovators AU',
@@ -251,3 +251,4 @@
 276312: 'From Dusk Till Dawn', 'From Dusk Till Dawn: The Series',
 281662: 'Daredevil', 'Marvels Daredevil', 'Marvel\'s Daredevil',
 248841: 'Scandal', 'Scandal (2012)',
+75978: 'Family.Guy',
